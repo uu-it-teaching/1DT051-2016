@@ -24,7 +24,7 @@ man programmerar i Python, t.ex.:
 
 - www.codecademy.com/tracks/python
 - www.learnpython.org/
-- docs.python.org/2/tutorial/introduction.html
+- https://docs.python.org/2/tutorial/introduction.html
 - www.pythontutor.com/
 
 ## Arbetsgång
