@@ -8,7 +8,7 @@ Dessa uppgifter skall sedan redovisas **måndag 22/9** eller **onsdag 24/9**.
 
 ## double()
 
-Skriv en funktion med namn `double()`` som dubblerar ett tal, dvs funktionen ska ta
+Skriv en funktion med namn `double()` som dubblerar ett tal, dvs funktionen ska ta
 ett tal som argument och returnera det dubbla talet. Ex: om funktionen anropas
 med talet 3 returnerar den talet 6.
 
@@ -22,7 +22,7 @@ om den anropas med 3 skall den returnera 12. Funktionen skall använda funktione
 ## max2()
 
 Skriv en funktion med namn `max2()` som tar två tal som argument och returnerar
-det största av talen.
+det största av talen. 
 
 ## max3()
 
