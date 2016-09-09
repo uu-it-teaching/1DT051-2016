@@ -2,9 +2,10 @@
 
 ## Uppgifter
 
-Du skall nu skriva ett antal funktioner i Python Tutor. Kom ihåg att kopiera och
-spara koden ibland, så du inte tappar bort den genom att t.ex. återladda sidan.
-Dessa uppgifter skall sedan redovisas måndag 22/9 eller onsdag 24/9.
+Du skall nu skriva ett antal funktioner i [Python Tutor](http://www.pythontutor.com/). Kom ihåg att kopiera och
+spara koden i en textfil ibland, så du inte tappar bort den genom att t.ex. återladda sidan.
+
+Dessa uppgifter skall sedan redovisas **måndag 22/9** eller **onsdag 24/9**.
 
 ### double()
 
