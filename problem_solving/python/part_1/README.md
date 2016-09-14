@@ -4,8 +4,10 @@
 
 Syftet är att se hur metoden söndra och härska kan användas för att lösa problem
 med hjälp av programmering. Du få prova på och lära sig grunderna inom
-programmering och då särskilt i det imperativa programmeringsspråket Python. De
-begrepp vi kommer studera under denna uppgift är:
+programmering och då särskilt i det imperativa
+programmeringsspråket
+[Python](https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)). De begrepp vi
+kommer studera under denna uppgift är:
 
 - Aritmetiska operationer (+, -, *, /, modulo).
 - Jämförelser (<, >, ==, >=, >=).
@@ -18,6 +20,18 @@ begrepp vi kommer studera under denna uppgift är:
 
 ## Förberedelser
 
+Innan du går på denna workshop skall du:
+
+- översiktligt läsa igenom denna [bakgrund](./1DT051_2016_Bakgrund_Reläer_vakuumrör_transistorer_grindar_och_datorer.pdf) som
+tar upp hur olika tekniker såsom reläer, vakumrör och tranistorer kan användas
+för att konsturera
+digitala [grindar](https://sv.wikipedia.org/wiki/Logisk_grind) samt hur dessa
+kan användas för att konstruera datorer
+
+- repeterat dina kunskaper om binära och hexadecimala tal, till exempel genom
+  att läsa igenom materialet från denna
+  [föreläsning](1DT051_2016_Föreläsning_Binära_och_hexadecimala_tal_två_komplement.pdf).
+  
 Den som vill förbereda sig inför uppgifterna om programmering bör gå på kursens
 workshops. Det finns också väldigt mycket bra material online om Python och hur
 man programmerar i Python, t.ex.:
