@@ -1,3 +1,0 @@
-# Python - del 1
-
- 
